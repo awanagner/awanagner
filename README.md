@@ -5,7 +5,7 @@ Computer Engineering Student at UFAL
 * ✉️ Contact: [amcw@ic.ufal.br](mailto:amcw@ic.ufal.br) or [20amcw02@gmail.com](mailto:20amcw02@gmail.com)
 * 🌍 Maceió-AL, Brazil
 * 💻 Learning **Swift** and **Java EE**
-* 🤔 Looking to collaborate with robotics or WebDevelopment
+* 🤔 Looking for collaborate with robotics or WebDevelopment
 
 
 ### Skills
