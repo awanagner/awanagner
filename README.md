@@ -28,9 +28,9 @@ Computer Engineering Student at UFAL
 
 <b>Stats!</b>
 
-![Ana's Stats](https://github-readme-stats.vercel.app/api?username=awanagner&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Ana's Stats](https://github-readme-stats.vercel.app/api?username=awanagner&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Ana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=awanagner&theme=vue-dark&hide_border=true)
+![Ana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=awanagner&theme=tokyonight&hide_border=true)
 
-![Ana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awanagner&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Ana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awanagner&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
